@@ -52,7 +52,7 @@ export default function PricingSection() {
             </ul>
 
             <a
-              href="https://whop.com/eqt-academy/"
+              href="https://whop.com/1-on-1-mentorship-72-e51c/vip-live-trading-group/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full bg-primary-gold text-primary-bg font-bold py-4 px-6 rounded-xl text-center block hover:bg-opacity-90 transition-all duration-300 transform hover:scale-105"

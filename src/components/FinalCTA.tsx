@@ -22,7 +22,7 @@ export default function FinalCTA() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center max-w-2xl mx-auto mb-8">
             <a
-              href="https://whop.com/eqt-academy/"
+              href="https://whop.com/1-on-1-mentorship-72-e51c/vip-live-trading-group/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-primary-gold text-primary-bg font-semibold px-8 py-4 rounded-lg text-lg hover:bg-opacity-90 transition-all duration-300 transform hover:scale-105 hover:shadow-lg"

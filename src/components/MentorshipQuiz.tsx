@@ -214,7 +214,7 @@ export default function MentorshipQuiz() {
                 We'll be in touch within 24 hours.
               </p>
               <a
-                href="https://whop.com/eqt-academy/"
+                href="https://whop.com/1-on-1-mentorship-72-e51c/vip-live-trading-group/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-primary-gold text-primary-bg font-bold py-3 px-6 rounded-lg hover:bg-opacity-90 transition-all duration-300"
