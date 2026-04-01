@@ -49,7 +49,7 @@ export default function FinalCTA() {
               <span>✈️</span> Free Telegram
             </a>
             <a
-              href="https://discord.gg/YOUR_INVITE"
+              href="https://discord.gg/Yhyg6Gj33"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-semibold transition-all duration-300 hover:scale-105"

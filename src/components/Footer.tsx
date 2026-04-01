@@ -5,7 +5,7 @@ export default function Footer() {
     { name: 'YouTube', handle: '@ENVOTRADES', url: 'https://youtube.com/@ENVOTRADES' },
     { name: 'Twitter', handle: '@ENVOTRADES', url: 'https://twitter.com/ENVOTRADES' },
     { name: 'TikTok', handle: '@ENVOTRADES', url: 'https://tiktok.com/@ENVOTRADES' },
-    { name: 'Discord', handle: 'Discord', url: '#' },
+    { name: 'Discord', handle: 'Discord', url: 'https://discord.gg/Yhyg6Gj33' },
     { name: 'Telegram', handle: 'Telegram', url: 'https://t.me/+hNiKvJohY101MzBh' }
   ];
 

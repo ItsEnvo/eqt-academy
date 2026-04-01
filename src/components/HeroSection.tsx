@@ -76,7 +76,7 @@ export default function HeroSection() {
               <span>✈️</span> Join Free Telegram
             </a>
             <a
-              href="https://discord.gg/YOUR_INVITE"
+              href="https://discord.gg/Yhyg6Gj33"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 rounded-lg text-sm font-semibold transition-all duration-300 hover:scale-105"
